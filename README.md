@@ -313,7 +313,7 @@
       <div class="gyro-ring ring-2"></div>
       <div class="gyro-ring ring-1"></div>
       <!-- Google Profile Picture -->
-      <img src="https://i.ibb.co/X3L7m58/portrait.jpg" alt="Lalu Kumar Tanti" class="welcome-photo">
+      <img src="/storage/emulated/0/Class 10/20251205_103059-IMG_STYLE (2).jpg" alt="Lalu Kumar Tanti" class="welcome-photo">
     </div>
 
     <!-- VERY SMALL COLORFUL NAME FOR WELCOME PAGE -->
